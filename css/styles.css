@@ -1,0 +1,26 @@
+body{
+  background-image: url('images\download.jpg');
+  background-repeat:no-repeat;
+  background-size:100%;
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  margin:auto;
+}
+.top{
+  text-align: center;
+  margin: 100px auto 100px auto;
+
+}
+.form_class{
+  margin: 100px auto 100px auto;
+}
+.bottom{
+  position: relative;
+  height: 50px;
+  top:300px;
+  text-align: center;
+  background-color: #FFFFFF;
+
+}
